@@ -1,3 +1,6 @@
+This is my Professional Website, all credit goes to Jacobo Martinez [https://github.com/cobidev](https://github.com/cobidev) for designing and coding it, I just used it to put my portfolio on the web. Included is some information about me and some of the projects that I've been working on.
+
+
 # Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
 
 ## A clean, beautiful and responsive portfolio template for Developers
