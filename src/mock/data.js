@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Mr. Coffee Website',
-    info: 'A Fake Website, I worked on during the INCO Academy Javascript Full-Stack Development Course. Created using HTML and CSS.',
+    info: 'A Fake Website, I created using HTML and CSS.',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Mr. Coffee Database System',
-    info: 'Created during INCO Academy Javascript Full-Stack Development Course. NODE, Express, MYSQL CRUD App. It\'s an app that allows you to insert and see a schedule. It also has a login system.',
+    info: 'NODE, Express, MYSQL CRUD App. It\'s an app that allows you to insert and see a schedule. It also has a login system.',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
